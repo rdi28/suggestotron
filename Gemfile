@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.2'
 
 gem 'pry'
-gem 'rails-pry'
+gem 'pry-rails'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
